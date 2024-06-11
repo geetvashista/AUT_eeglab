@@ -1,3 +1,6 @@
+# AUTHOR: Geet Vashista (gv.3721@hotmail.co.nz)
+# DATE: 11/06/2024
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
